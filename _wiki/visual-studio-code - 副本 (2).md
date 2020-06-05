@@ -1,6 +1,6 @@
 ---
 layout: wiki
-title: Visual Studio Code
+title: Visual Studio Code1
 categories: Tools
 description: Visual Studio Code 的快捷键与使用技巧
 keywords: Visual Studio Code
