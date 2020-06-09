@@ -2,12 +2,12 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://chauby.github.io
+url: https://geohuo.github.io
 date_format: "ordinal"
-title: 沙漏
-subtitle: "沙漏没有水，但依旧流逝时间"
-description: "Chauby的个人博客"
-keywords: 沙漏, Chauby Zou, Chauby, Chaobin Zou 
+title: the only way to nibhāna
+subtitle: "听即是听，看即是看""
+description: "nibhāna"
+keywords:  nibhāna
 # timezone: Asia/Chengdu
 encoding: "utf-8"
 side_bar_repo_limit: 5
@@ -15,12 +15,12 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Chauby
-organization: UESTC
-organization_url: http://www.uestc.edu.cn
-github_username: Chauby
-location: Chengdu, China
-email: chaubyZou@163.com
+author: geohuo
+organization: fzcl
+organization_url: http://www.fzcl.org.cn
+github_username: geohuo
+location: xishuangbanna, China
+email: geohuo@163.com
 
 # ---------------- #
 #    Navigation    #
